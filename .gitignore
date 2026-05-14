@@ -1,0 +1,16 @@
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+.env
+*.db
+*.db-shm
+*.db-wal
+
+.idea/
+.vscode/
+*.log
+
+.DS_Store
+Thumbs.db
+desktop.ini
